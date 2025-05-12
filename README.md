@@ -1,4 +1,4 @@
-[Uploadin<!DOCTYPE html>
+
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -7,7 +7,7 @@
   <style>
     body {
       background-color: #000000;
-      color: #ffffff;
+      color: #000000;
       font-family: Arial, sans-serif;
       padding: 20px;
     }
