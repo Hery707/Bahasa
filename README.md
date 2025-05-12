@@ -34,7 +34,7 @@
 
     button {
       background-color: #00cc99;
-      color: white;
+      color: black;
       cursor: pointer;
     }
 
